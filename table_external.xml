@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="table_style.xsl"?> 
+<!DOCTYPE bookdetails SYSTEM "table_dtd.dtd">
+
+<bookdetails>
+  <book>
+    <title>The Magic of Thinking Big</title>
+    <author>DAVID J SCHARTZ</author>
+    <genre>Self Help</genre>
+    <copyright>1996</copyright>
+    <edition>5</edition>
+    <isbn>890671646788</isbn>
+    <publisher>Simon and Schuster</publisher>
+    <price>899</price>
+  </book>
+
+  <book>
+    <title>One Indian Girl</title>
+    <author>CHETAN BHAGAT</author>
+    <genre>Romantic</genre>
+    <copyright>2004</copyright>
+    <edition>2</edition>
+    <isbn>9781477809235</isbn>
+    <publisher>Amazon</publisher>
+    <price>399</price>
+  </book>
+
+  <book>
+    <title>Pro HTML5 With Visual Studio</title>
+    <author>MARK J COLLINS</author>
+    <genre>Educational</genre>
+    <copyright>2008</copyright>
+    <edition>8</edition>
+    <isbn>09789767860</isbn>
+    <publisher>Friends of Apress</publisher>
+    <price>649</price>
+  </book>
+
+  <book>
+    <title>The 5 Second Rule</title>
+    <author>MEL ROBBINS</author>
+    <genre>Self Help</genre>
+    <copyright>2006</copyright>
+    <edition>3</edition>
+    <isbn>978168214592</isbn>
+    <publisher>Savio Republic</publisher>
+    <price>399</price>
+  </book>
+
+  <book>
+    <title>The Great Gatsby</title>
+    <author>F SCOTT FITZ</author>
+    <genre>Tragedy</genre>
+    <copyright>1986</copyright>
+    <edition>4</edition>
+    <isbn>79867596767</isbn>
+    <publisher>Chatton and Windos</publisher>
+    <price>999</price>
+  </book>
+</bookdetails>
